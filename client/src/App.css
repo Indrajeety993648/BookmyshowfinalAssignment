@@ -33,7 +33,7 @@
   margin-inline: auto;
 }
 .max-width-300{
-  max-width: 300px;
+  max-width: 295px;
 }
 .movie-data{
   color: #999;
@@ -42,7 +42,7 @@
   margin-bottom: 8px;
 }
 .movie-data span{
-  color: #212121;
+  color: #0b0a0a;
   font-weight: 600;
 }
 .flex-shrink-0{
